@@ -8,19 +8,19 @@
 </div>
 
 <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=hugogomes7&theme=gotham&hide_border=true&cache_seconds=0">
-<br><br>
 
-<p align="center">
+  <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HugoGomes7&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
+<br>
+
 <div align="center">  
 <a href="https://www.instagram.com/_hugodlucca/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"</a>
+  <a href="https://www.linkedin.com/in/hugo-gomes-889658211/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
-  
-  <div align="center">  
-<a href="https://www.linkedin.com/in/hugo-gomes-889658211/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-</div>
+
+  <br>
 
   ### 👨‍💻 Main Skills:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -65,11 +65,59 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-
-
+<br>
+    <h2 align="left"> 👨‍💻 Main Projects</h2>
+<img align="left" src="projects.gif" height="495px" width="40%" alt="projects image">
+    <div> 
+<table align="center" height="495px" width="30%">
+  <tr>
+    <td>
+    <a href="https://github.com/HugoGomes7/project-dashboard" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hugogomes7&repo=project-dashboard&theme=tokyonight&hide_border=true&cache_seconds=0">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/HugoGomes7/chatbot-telegram" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hugogomes7&repo=chatbot-telegram&theme=tokyonight&hide_border=true&cache_seconds=0">
+  </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/HugoGomes7/api-marvel" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hugogomes7&repo=api-marvel&theme=tokyonight&hide_border=true&cache_seconds=0">
+    </a>
+    </td>
+  </tr>
+    <tr>
+    <td>
+    <a href="https://github.com/HugoGomes7/API-OpenWeather" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hugogomes7&repo=API-OpenWeather&theme=tokyonight&hide_border=true&cache_seconds=0">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/HugoGomes7/portfolio-retro" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hugogomes7&repo=portfolio-retro&theme=tokyonight&hide_border=true&cache_seconds=0">
+  </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/HugoGomes7/cards" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hugogomes7&repo=cards&theme=tokyonight&hide_border=true&cache_seconds=0">
+  </a>
+    </td>
+  </tr>
+</table>
+<br><br>
+  
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{HugoGomes7}/count.svg" /></p> 
-<br></div>
+</div>
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
