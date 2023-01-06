@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Hugo+D'Lucca;I'm+22+years+old;I+from+Brazil,+RN;I'm+Dev+Frontend;Passionate+about+Web+Developed;I+study+Technology+of+Information+at+UFERSA;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HugoGomes7&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Hugo D'Lucca github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoGomes7&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hugogomes7&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Hugo D'Lucca github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugogomes7&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=hugogomes7&theme=gotham&hide_border=true&cache_seconds=0">
@@ -72,43 +72,43 @@
 <table align="center" height="495px" width="30%">
   <tr>
     <td>
-    <a href="https://github.com/HugoGomes7/project-dashboard" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hugogomes7&repo=project-dashboard&theme=tokyonight&hide_border=true&cache_seconds=0">
+    <a href="https://github.com/hugogomes7/project-dashboard" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hugogomes7&repo=project-dashboard&theme=cobalt&hide_border=true&cache_seconds=0">
     </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/HugoGomes7/chatbot-telegram" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hugogomes7&repo=chatbot-telegram&theme=tokyonight&hide_border=true&cache_seconds=0">
+      <a href="https://github.com/hugogomes7/chatbot-telegram" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hugogomes7&repo=chatbot-telegram&theme=cobalt&hide_border=true&cache_seconds=0">
   </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/HugoGomes7/api-marvel" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hugogomes7&repo=api-marvel&theme=tokyonight&hide_border=true&cache_seconds=0">
+    <a href="https://github.com/hugogomes7/api-marvel" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hugogomes7&repo=api-marvel&theme=cobalt&hide_border=true&cache_seconds=0">
     </a>
     </td>
   </tr>
     <tr>
     <td>
-    <a href="https://github.com/HugoGomes7/API-OpenWeather" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hugogomes7&repo=API-OpenWeather&theme=tokyonight&hide_border=true&cache_seconds=0">
+    <a href="https://github.com/hugogomes7/API-OpenWeather" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hugogomes7&repo=API-OpenWeather&theme=cobalt&hide_border=true&cache_seconds=0">
     </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/HugoGomes7/portfolio-retro" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hugogomes7&repo=portfolio-retro&theme=tokyonight&hide_border=true&cache_seconds=0">
+    <a href="https://github.com/hugogomes7/portfolio-retro" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hugogomes7&repo=portfolio-retro&theme=cobalt&hide_border=true&cache_seconds=0">
   </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/HugoGomes7/cards" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hugogomes7&repo=cards&theme=tokyonight&hide_border=true&cache_seconds=0">
+    <a href="https://github.com/hugogomes7/cards" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hugogomes7&repo=cards&theme=cobalt&hide_border=true&cache_seconds=0">
   </a>
     </td>
   </tr>
